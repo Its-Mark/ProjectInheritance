@@ -12,4 +12,8 @@ public abstract class Candy extends DessertItem {
     public double getCost() {
         return amount * CPP;
     }
+
+    public int getCalories() {
+        return amount * calories;
+    }
 }
