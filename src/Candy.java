@@ -4,6 +4,7 @@ public abstract class Candy extends DessertItem {
     private final double CPP = .89; //cost per pound
 
     public Candy(int a, int c){
+    	super.name = "Candy";
         this.amount = a;
         this.calories = c;
     }
