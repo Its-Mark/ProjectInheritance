@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5d3f0b-4682-4375-a572-5236939757e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e5d3f0b-4682-4375-a572-5236939757e5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CECS 274/GitHubLabs/tree-traversals-hw4-justin-mark" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -64,6 +63,7 @@
       <workItem from="1581440888821" duration="1890000" />
       <workItem from="1581443307629" duration="22000" />
       <workItem from="1581452520695" duration="1017000" />
+      <workItem from="1581614083304" duration="92000" />
     </task>
     <servers />
   </component>
@@ -80,6 +80,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="277" y="96" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1581440950647" />
+    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1581614173660">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1581614173660" />
     <state x="186" y="80" key="SettingsEditor" timestamp="1581440702151">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
