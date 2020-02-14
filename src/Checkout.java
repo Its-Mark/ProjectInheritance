@@ -1,5 +1,4 @@
 public class Checkout {
-	
 	public void clear() {
 		
 	}
