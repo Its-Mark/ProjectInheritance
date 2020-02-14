@@ -25,6 +25,7 @@ public abstract class DessertItem {
      * Returns cost of DessertItem
      * @return cost of DessertItem
      */
-    public abstract double getCost();
-
+    public abstract double getCost() {
+    	return cost;
+    }
 }
