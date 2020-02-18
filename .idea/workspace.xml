@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5d3f0b-4682-4375-a572-5236939757e5" name="Default Changelist" comment="" />
+    <list default="true" id="1e5d3f0b-4682-4375-a572-5236939757e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Candy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Candy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DessertItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DessertItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DessertShoppeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DessertShoppeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IceCream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sundae.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sundae.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CECS 274/GitHubLabs/tree-traversals-hw4-justin-mark" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -64,6 +73,7 @@
       <workItem from="1581443307629" duration="22000" />
       <workItem from="1581452520695" duration="1017000" />
       <workItem from="1581614083304" duration="92000" />
+      <workItem from="1582042810127" duration="1896000" />
     </task>
     <servers />
   </component>

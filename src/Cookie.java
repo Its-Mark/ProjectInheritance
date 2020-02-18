@@ -1,10 +1,16 @@
 public abstract class Cookie extends DessertItem {
     private int calories;
-    private int amount;
+    private double amount;
     private final double CPD = 3.99/12; //cost per dozen
 
-    public Cookie(int a, int c) {
+    public Cookie(){
         super.name = "Cookie";
+        this.amount = 0.0;
+        this.calories = 0;
+    }
+
+    public Cookie(String n, int a, int c) {
+        super.name = n + "(Cookie)";
         this.amount = a;
         this.calories = c;
     }
@@ -14,7 +20,7 @@ public abstract class Cookie extends DessertItem {
         return amount * CPD;
     }
 
-    public int getCalories() {
+    public double getTotalCalories() {
         return amount * calories;
     }
 

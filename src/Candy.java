@@ -1,10 +1,16 @@
 public abstract class Candy extends DessertItem {
     private int calories;
-    private int amount;
+    private double amount;
     private final double CPP = .89; //cost per pound
 
-    public Candy(int a, int c){
-    	super.name = "Candy";
+    public Candy(){
+        super.name = "Candy";
+        this.amount = 0;
+        this.calories = 0;
+    }
+
+    public Candy(String n, int a, int c){
+    	super.name = n + "(Candy)";
         this.amount = a;
         this.calories = c;
     }
@@ -14,7 +20,7 @@ public abstract class Candy extends DessertItem {
         return amount * CPP;
     }
 
-    public int getCalories() {
+    public double getTotalCalories() {
         return amount * calories;
     }
 }

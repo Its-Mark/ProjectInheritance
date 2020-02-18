@@ -1,20 +1,28 @@
 public abstract class IceCream extends DessertItem {
     private int calories;
-    private int amount;
-    private final double CPD = 3.99/12; //cost per dozen
+    private double amount;
+    private double cost;
 
-    public IceCream(int a, int c) {
+    public IceCream(){
         super.name = "Ice Cream";
+        this.amount = 1.0;
+        this.calories = 240;
+        this.cost = 8.50;
+    }
+
+    public IceCream(String n, int a, int cal, int c) {
+        super.name = n + "(Ice Cream)";
         this.amount = a;
-        this.calories = c;
+        this.calories = cal;
+        this.cost = c;
     }
 
     @Override
     public double getCost() {
-        return amount * CPD;
+        return amount * cost;
     }
 
-    public int getCalories() {
+    public double getTotalCalories() {
         return amount * calories;
     }
 
