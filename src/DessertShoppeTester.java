@@ -11,7 +11,7 @@ public class DessertShoppeTester {
 		Candy c4 = new Candy("CandyCane", 3, 35,1.0);
 		IceCream i1 = new IceCream("Vanilla", 1.0, 400, 6.99);
 		IceCream i2 = new IceCream("Chocolate", 1.0, 500, 7.99);
-		IceCream i3 = new Sundae(1.0, 600, 10.0);
+		IceCream i3 = new Sundae("Caramel",1.0, 600, 10.0);
 		test.enterItem(c1);
 		test.enterItem(c2);
 		test.enterItem(c3);
