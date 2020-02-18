@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/src/Candy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Candy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cookie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DessertItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DessertItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DessertShoppeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DessertShoppeTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IceCream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sundae.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sundae.java" afterDir="false" />
@@ -44,7 +43,14 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DessertShoppeTester">
+    <configuration name="DessertShoppeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DessertShoppeTester" />
+      <module name="ProjectInheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="ProjectInheritance" />
@@ -55,6 +61,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DessertShoppeTester" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,7 +84,7 @@
       <workItem from="1581443307629" duration="22000" />
       <workItem from="1581452520695" duration="1017000" />
       <workItem from="1581614083304" duration="92000" />
-      <workItem from="1582042810127" duration="1896000" />
+      <workItem from="1582042810127" duration="4823000" />
     </task>
     <servers />
   </component>
@@ -90,10 +101,30 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="277" y="96" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1581440950647" />
+    <state x="490" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1582046257138">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="490" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1582046257138" />
     <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1581614173660">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1581614173660" />
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1582047617593">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582047617593" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1582047617593">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582047617593" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1582047617593">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582047617593" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1582047617593">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582047617593" />
     <state x="186" y="80" key="SettingsEditor" timestamp="1581440702151">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

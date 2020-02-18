@@ -1,11 +1,11 @@
-public abstract class Sundae extends IceCream {
+public class Sundae extends IceCream {
     private int calories;
-    private int amount;
+    private double amount;
     private double cost;
 
 
-    public Sundae(int a, int cal, int c) {
-        super.name = "Sundae";
+    public Sundae(String s,double a, int cal, double c) {
+        super.name = s+ "(Sundae)";
         this.amount = a;
         this.calories = cal;
         this.cost = c;
@@ -16,7 +16,7 @@ public abstract class Sundae extends IceCream {
         return amount * cost;
     }
 
-    public int getCalories() {
+    public double getCalories() {
         return amount * calories;
     }
 
