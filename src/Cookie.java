@@ -27,7 +27,7 @@ public class Cookie extends DessertItem {
         String s = this.amount + " @ " + this.CPD + ".\n" + super.name + "\t\t\t " + getCost();
         return s;
     }
-
+    @Override
     public double getTotalCalories() {
         return amount * calories;
     }

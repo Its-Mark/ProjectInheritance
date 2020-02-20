@@ -28,6 +28,7 @@ public class IceCream extends DessertItem {
         return s;
     }
 
+    @Override
     public double getTotalCalories() {
         return amount * calories;
     }

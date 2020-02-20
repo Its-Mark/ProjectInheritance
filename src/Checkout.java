@@ -3,8 +3,21 @@ public class Checkout {
 	private ArrayList<DessertItem> Cart;
 	private double tax;
 
-	public Checkout(){
+	public Checkout() {
 		Cart = new ArrayList<>();
+	}
+	public void sort(){
+		Collections.sort(Cart, new Comparator<DessertItem>(){
+			public int compare(DessertItem d1, DessertItem d2){
+				return d1.compareTo(d2);
+			}
+		});
+	}
+	public int size(){
+		return Cart.size();
+	}
+	public DessertItem get(int i){
+		return Cart.get(i);
 	}
 	public void clear() {
 		Cart = new ArrayList<>();

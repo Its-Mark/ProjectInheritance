@@ -16,7 +16,8 @@ public class Sundae extends IceCream {
         return amount * cost;
     }
 
-    public double getCalories() {
+    @Override
+    public double getTotalCalories() {
         return amount * calories;
     }
 

@@ -28,6 +28,7 @@ public class Candy extends DessertItem {
         return s;
     }
 
+    @Override
     public double getTotalCalories() {
         return amount * calories;
     }
