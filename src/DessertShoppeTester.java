@@ -1,6 +1,13 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+/**
+ * CECS 277 Project IPI
+ * @author Mark Garcia
+ *         mark.garcia01@student.csulb.edu
+ * @author Brandon Wiitanen
+ *
+ */
 
 public class DessertShoppeTester {
 

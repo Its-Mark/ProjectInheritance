@@ -1,3 +1,10 @@
+/**
+ * CECS 277 Project IPI
+ * @author Mark Garcia
+ *         mark.garcia01@student.csulb.edu
+ * @author Brandon Wiitanen
+ *
+ */
 public class Candy extends DessertItem {
     private int calories;
     private double amount;

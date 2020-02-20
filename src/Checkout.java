@@ -1,4 +1,12 @@
 import java.util.*;
+
+/**
+ * CECS 277 Project IPI
+ * @author Mark Garcia
+ *         mark.garcia01@student.csulb.edu
+ * @author Brandon Wiitanen
+ *
+ */
 public class Checkout {
 	private ArrayList<DessertItem> Cart;
 	private double tax;

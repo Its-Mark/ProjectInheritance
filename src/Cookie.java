@@ -1,3 +1,10 @@
+/**
+ * CECS 277 Project IPI
+ * @author Mark Garcia
+ *         mark.garcia01@student.csulb.edu
+ * @author Brandon Wiitanen
+ *
+ */
 public class Cookie extends DessertItem {
     private int calories;
     private double amount;
@@ -9,7 +16,6 @@ public class Cookie extends DessertItem {
         this.calories = 0;
         this.CPD = 0;
     }
-
     public Cookie(String n, double a, int c, double pd) {
         super.name = n + "(Cookie)";
         this.amount = a;

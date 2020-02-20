@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e5d3f0b-4682-4375-a572-5236939757e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectInheritance/Candy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectInheritance/Candy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectInheritance/Checkout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectInheritance/Checkout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectInheritance/DessertShoppeTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectInheritance/DessertShoppeTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectInheritance/Sundae.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectInheritance/Sundae.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Candy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Candy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cookie.java" afterDir="false" />
@@ -42,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectArrayLists" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -90,7 +85,7 @@
       <workItem from="1581452520695" duration="1017000" />
       <workItem from="1581614083304" duration="92000" />
       <workItem from="1582042810127" duration="5130000" />
-      <workItem from="1582218538799" duration="1813000" />
+      <workItem from="1582218538799" duration="2072000" />
     </task>
     <servers />
   </component>
@@ -111,10 +106,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="490" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1582220052426" />
-    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1581614173660">
+    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1582220551966">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1581614173660" />
+    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1582220551966" />
     <state width="1326" height="319" key="GridCell.Tab.0.bottom" timestamp="1582220483690">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
