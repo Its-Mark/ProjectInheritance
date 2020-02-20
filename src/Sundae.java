@@ -3,6 +3,7 @@
  * @author Mark Garcia
  *         mark.garcia01@student.csulb.edu
  * @author Brandon Wiitanen
+ *         brandon.wiitanen@student.csulb.edu
  *
  */
 public class Sundae extends IceCream {
@@ -18,11 +19,18 @@ public class Sundae extends IceCream {
         this.cost = c;
     }
 
+    /**
+  	* @return the total cost of the cart w/ tax
+  	*/
     @Override
     public double getCost() {
         return amount * cost;
     }
 
+    /**
+     * This method calculates the number of total calories in a given number of Sundae
+     * @return result of the amount of Sundae times the calories of each Sundae for the total calorie count
+     */
     @Override
     public double getTotalCalories() {
         return amount * calories;
