@@ -17,7 +17,6 @@ public class Candy extends DessertItem {
         this.calories = 0;
         this.CPP = 0;
     }
-    /
     public Candy(String n, double a, int cal, double c){
     	super.name = n + "(Candy)";
         this.amount = a;
