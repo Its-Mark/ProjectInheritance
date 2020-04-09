@@ -1,3 +1,4 @@
+import javax.crypto.spec.DESedeKeySpec;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -14,13 +15,13 @@ public class DessertShoppeTester {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Checkout test = new Checkout();
-		Cookie c1 = new Cookie("Chocolate Chip", 12.0, 50, 3.99);
-		Cookie c2 = new Cookie("Oatmeal", 24.0, 20, 2.99);
-		Candy c3 = new Candy("Corn", 30.0, 10, .10);
-		Candy c4 = new Candy("CandyCane", 3, 35,1.0);
-		IceCream i1 = new IceCream("Vanilla", 1.0, 400, 6.99);
-		IceCream i2 = new IceCream("Chocolate", 1.0, 500, 7.99);
-		IceCream i3 = new Sundae("Caramel",1.0, 650, 10.0);
+		DessertItem c1 = new Cookie("Chocolate Chip", 12.0, 50, 3.99);
+		DessertItem c2 = new Cookie("Oatmeal", 24.0, 20, 2.99);
+		DessertItem c3 = new Candy("Corn", 30.0, 10, .10);
+		DessertItem c4 = new Candy("CandyCane", 3, 35,1.0);
+		DessertItem i1 = new IceCream("Vanilla", 1.0, 400, 6.99);
+		DessertItem i2 = new IceCream("Chocolate", 1.0, 500, 7.99);
+		DessertItem i3 = new Sundae("Caramel",1.0, 650, 10.0);
 		test.enterItem(c1);
 		test.enterItem(c2);
 		test.enterItem(c3);

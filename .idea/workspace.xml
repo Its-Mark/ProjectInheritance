@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5d3f0b-4682-4375-a572-5236939757e5" name="Default Changelist" comment="" />
+    <list default="true" id="1e5d3f0b-4682-4375-a572-5236939757e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DessertShoppeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DessertShoppeTester.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +30,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectArrayLists" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -59,6 +63,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -78,6 +94,7 @@
       <workItem from="1581614083304" duration="92000" />
       <workItem from="1582042810127" duration="5130000" />
       <workItem from="1582218538799" duration="2179000" />
+      <workItem from="1586405476061" duration="256000" />
     </task>
     <servers />
   </component>
@@ -98,10 +115,15 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="490" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1582220052426" />
-    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1582220551966">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="707" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586405706908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586405706908" />
+    <state x="653" y="229" key="FileChooserDialogImpl" timestamp="1586405706382">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1582220551966" />
+    <state x="653" y="229" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586405706382" />
     <state width="1326" height="319" key="GridCell.Tab.0.bottom" timestamp="1582220736583">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -122,9 +144,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="186" y="80" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581440702151" />
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582218539564">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="533" y="312" key="com.intellij.ide.util.TipDialog" timestamp="1586405476525">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582218539564" />
+    <state x="533" y="312" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586405476525" />
   </component>
 </project>
